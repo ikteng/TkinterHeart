@@ -1,4 +1,7 @@
 # Tkinter Heart
+
+![image](https://github.com/user-attachments/assets/4182983b-3011-420a-8d0e-78baa027f7ac)
+
 ## Description
 Heart Animation is a Python project that utilizes the Tkinter library to create a mesmerizing heart shape animation. The project generates random points that form a heart shape and dynamically renders them on a canvas, creating a visually appealing effect that symbolizes love and affection.
 
